@@ -1,6 +1,6 @@
 # İlerleme
 
-**Aktif aşama:** **Aşama 7 — Paylaşım** (başlanmadı; kullanıcı 2026-11-14: "oyun ilk versiyon için hazır", yayınlama işlemleri yeni oturumda). Aşama 6 tamam ve onaylı. Sürüm **v1.0.0**.
+**Aktif aşama:** **Aşama 7 — Paylaşım** (başladı 2026-11-14). Yapıldı: `README.md` (tanıtım, kontroller, özellikler, kaynaktan çalıştırma, testler, yapı; ekran görüntüsü yeri yorum satırı olarak bekliyor) ve `LICENSE` (MIT). Bekleyen: **Godot Export Templates kurulu değil** (`%APPDATA%\Godot\export_templates` boş) → kullanıcı kuracak; dağıtım yeri (GitHub Releases / itch.io / GitHub Pages) kullanıcıya soruldu. Remote: `origin` = github.com/tahapek5454/Tower-Climb. Aşama 6 tamam ve onaylı. Sürüm **v1.0.0**.
 **Durum:** Aşama 1–5 tamam ve onaylı. Aşama 6'da madde 1–10 onaylı. Elmas mağazası (kozmetikler, devam et kartı, takviyeler, yükseltmeler, efektler) 2026-11-14'te `main`'de birleşti; kullanıcı mağazayı denedi: "genel olarak iyi / güzel duruyor", tek düzeltme isteği Noel Baba şapkasıydı (yapıldı). GUT **269** test.
 
 ## ▶ Yeni oturumda buradan devam
