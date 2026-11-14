@@ -78,7 +78,7 @@ scripts/   tuning.gd (tüm oynanış sayıları), autoload/, game/ (saf kurallar
            player/, world/, ui/, fx/
 assets/    modeller, shader'lar, sesler
 tests/     GUT testleri
-tools/     ses sentezi (tools/sfx) ve Blender betikleri (tools/blender)
+tools/     ses sentezi (tools/sfx), Blender betikleri (tools/blender), simge üretici (tools/icon)
 docs/      tasarım belgesi ve geliştirme günlüğü
 ```
 
