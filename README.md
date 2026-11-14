@@ -6,7 +6,12 @@ Tower Climb, Godot 4 ile yapılmış 2D, sonsuz bir kule tırmanma oyunu. Kartal
 
 > *English:* Tower Climb is a free, open-source 2D endless tower climber made with Godot 4. Build momentum, chain multi-floor combos, bounce off walls and climb as high as you can before the rising camera catches you. The UI is in Turkish.
 
-<!-- Ekran görüntüleri Aşama 7'de eklenecek: docs/screenshots/ -->
+![Kombo ve takla](docs/screenshots/combo.png)
+
+| | |
+|---|---|
+| ![Roketle uçuş](docs/screenshots/rocket.png) | ![Elmas mağazası](docs/screenshots/shop.png) |
+| ![Ana menü](docs/screenshots/menu.png) | **[⬇ Windows için indir](https://github.com/tahapek5454/Tower-Climb/releases/latest)** |
 
 ![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-1.0.0-2ec4b6)
 ![Godot](https://img.shields.io/badge/Godot-4.7-478cbf?logo=godotengine&logoColor=white)
@@ -47,7 +52,9 @@ Tower Climb, Godot 4 ile yapılmış 2D, sonsuz bir kule tırmanma oyunu. Kartal
 
 ## İndir ve oyna
 
-Hazır sürümler [Releases](https://github.com/tahapek5454/Tower-Climb/releases) sayfasında olacak (Windows `.exe`). Web sürümünün bağlantısı yayınlandığında buraya eklenecek.
+1. [Son sürümün sayfasından](https://github.com/tahapek5454/Tower-Climb/releases/latest) `TowerClimb-v1.0.0-windows.zip` dosyasını indir.
+2. Zip'i bir klasöre çıkar ve `TowerClimb.exe`'yi çalıştır. Kurulum gerekmez (Windows 10/11, 64 bit).
+3. Windows "Bilgisayarınız korundu" uyarısı gösterirse **Ek bilgi → Yine de çalıştır**'a tıkla. Exe imzasız olduğu için bu uyarı çıkıyor.
 
 ## Kaynaktan çalıştır
 
